@@ -70,7 +70,7 @@ sudo apt update && sudo apt install -y curl && curl -fsSL -o download.sh https:/
 
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/3c70376b-330b-4ffe-b8f2-60ed18f80a30" alt="Image" />
+  <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/number-1.png" alt="Image" />
 </p>
 
 
