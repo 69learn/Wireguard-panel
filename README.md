@@ -58,7 +58,7 @@
 **آموزش نصب با اسکریپت**
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نصب پنل و بات</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/mobile.png" alt="Image"> </strong>نصب پنل و بات</summary>
 
 ------------------------------------ 
 
