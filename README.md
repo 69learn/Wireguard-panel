@@ -117,7 +117,7 @@ sudo apt update && sudo apt install -y curl && curl -fsSL -o download.sh https:/
 
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/fcbbdc62-2de5-48aa-bbdd-e323e96a62b5" alt="Image"> </strong>نصب پنل به صورت دستی</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/swipe.png" alt="Image" width="40"> </strong>نصب پنل به صورت دستی</summary>
 
 ------------------------------------ 
 
