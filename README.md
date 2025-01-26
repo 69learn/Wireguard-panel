@@ -58,7 +58,7 @@
 **آموزش نصب با اسکریپت**
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/mobile.png" alt="Image"> </strong>نصب پنل و بات</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/mobile.png" alt="Image" width="100"> </strong>نصب پنل و بات</summary>
 
 ------------------------------------ 
 
