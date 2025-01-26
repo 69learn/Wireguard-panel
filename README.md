@@ -77,7 +77,7 @@ sudo apt update && sudo apt install -y curl && curl -fsSL -o download.sh https:/
 - نخست گزینه ها را به ترتیب نصب میکنید تا به گزینه 4 برسید
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/9a7379c1-f19d-491d-847d-de5342f2c218" alt="Image" />
+  <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/number-2.png" alt="Image" width="40"/>
 </p>
 
 
@@ -89,7 +89,7 @@ sudo apt update && sudo apt install -y curl && curl -fsSL -o download.sh https:/
 - در صورت استفاده نکردن از tls ادرس داشبورد شما http://publicip:port/home است و در صورت استفاده از tls به صورت https://subdomain:port/home خواهد بود
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/5f861a94-bb47-4cd2-82ef-cf8c6d78a85c" alt="Image" />
+  <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/number-3.png" alt="Image" width="40"/>
 </p>
 
 - قسمت بعدی ست کردن کانفیگ وایرگارد میباشد
@@ -98,7 +98,7 @@ sudo apt update && sudo apt install -y curl && curl -fsSL -o download.sh https:/
 - پورت و سایر موارد را وارد نمایید.
 - در صورت استفاده از فایروال، پورت و رنج پرایوت را باز کنید
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/c4ce3873-ebd3-435e-8a66-d66a9cf9f260" alt="Image" />
+  <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/number-4.png" alt="Image" width="40"/>
 </p>
 
 
